@@ -1,0 +1,260 @@
+{
+  "total_tweets": 17197,
+  "timestamp": "2026-02-19 12:27:03",
+  "emotion_distribution": {
+    "Happy": {
+      "count": 5394,
+      "percentage": 31.37
+    },
+    "Neutral": {
+      "count": 4907,
+      "percentage": 28.53
+    },
+    "Surprised": {
+      "count": 3800,
+      "percentage": 22.1
+    },
+    "Angry": {
+      "count": 1419,
+      "percentage": 8.25
+    },
+    "Sad": {
+      "count": 1044,
+      "percentage": 6.07
+    },
+    "Disgusted": {
+      "count": 420,
+      "percentage": 2.44
+    },
+    "Fear": {
+      "count": 213,
+      "percentage": 1.24
+    }
+  },
+  "sample_tweets": {
+    "Happy": [
+      {
+        "id": 44109,
+        "text": "happy friday! #live #life #laugh #love   #fun #enjoy #smileâ¦ ",
+        "emotion": "Happy",
+        "confidence": 0.6
+      },
+      {
+        "id": 32016,
+        "text": "have a nice luxuryweek!!ó¾ó¾ #monday #neweek #luxuryweek #bestday #staypositive   #fun #goodmoments #lifestyle... ",
+        "emotion": "Happy",
+        "confidence": 0.5
+      },
+      {
+        "id": 32531,
+        "text": "old is not old-fashioned    #love #cool #perfect #nice #crazygirl #smile #card #oldschoolâ¦ ",
+        "emotion": "Happy",
+        "confidence": 0.5
+      },
+      {
+        "id": 33791,
+        "text": " @user have a great weekend, friends. #pay #fun   #great #like #follow #enjoy #amazing #life #live #people #best ",
+        "emotion": "Happy",
+        "confidence": 0.5
+      },
+      {
+        "id": 35438,
+        "text": " @user my amazing manâ¤ @user   #amazing #man #perfect #love #my #man #sweety #dearest  â¦ ",
+        "emotion": "Happy",
+        "confidence": 0.5
+      }
+    ],
+    "Sad": [
+      {
+        "id": 35868,
+        "text": "#alone #depressed #depression   #selfharm #suicide #suicidal #cry #tears #cutti... (vine by social anxiety) ",
+        "emotion": "Sad",
+        "confidence": 0.4
+      },
+      {
+        "id": 37676,
+        "text": "the end #depressed   #crying #depression #suicidal #hu #pain  #broken #tired gif - find... ",
+        "emotion": "Sad",
+        "confidence": 0.4
+      },
+      {
+        "id": 32068,
+        "text": "back for some people! #missingperson #havingfunalone #lonely   ð #hothl ð¥ðð ",
+        "emotion": "Sad",
+        "confidence": 0.3
+      },
+      {
+        "id": 34455,
+        "text": "honey...  i blew off my #nikon today!! :-((  #dslr #nikon #cameras #photography   #realsad #hu #pain #lonely #blank #mind",
+        "emotion": "Sad",
+        "confidence": 0.3
+      },
+      {
+        "id": 34899,
+        "text": "sta laughing! crying only makes you sad.   #laugh #cry   #distressed #anxious #change #mindset #depressed ",
+        "emotion": "Sad",
+        "confidence": 0.3
+      }
+    ],
+    "Angry": [
+      {
+        "id": 41281,
+        "text": "a year in 2016: the rise of the racist, homophobic and misogynistic alt-right  #homophobia #hate  #violence",
+        "emotion": "Angry",
+        "confidence": 0.95
+      },
+      {
+        "id": 43305,
+        "text": "#imwithher #blacklivesmatter  #bigot #xenophobia #socialjustice #notmypresident &amp; any other stupid lib word  #wordstwittermademehate",
+        "emotion": "Angry",
+        "confidence": 0.95
+      },
+      {
+        "id": 47900,
+        "text": "@user a year in 2016: the rise of the racist, homophobic and misogynistic alt-right  #homophobia #hate #raciâ¦",
+        "emotion": "Angry",
+        "confidence": 0.95
+      },
+      {
+        "id": 42767,
+        "text": "@user @user @user #trump #trumpster #hateful #intolerant #bigots  obnoxious violent #divisive @user #truth",
+        "emotion": "Angry",
+        "confidence": 0.76
+      },
+      {
+        "id": 46076,
+        "text": "@user not trump's fault when makes racist rants &amp; you aren't to blame for your homophobic remarks; today of all days.  ",
+        "emotion": "Angry",
+        "confidence": 0.72
+      }
+    ],
+    "Fear": [
+      {
+        "id": 34111,
+        "text": "prepping for a pretty big #streeta project and taking a risk with the location #nervous  ",
+        "emotion": "Fear",
+        "confidence": 0.2
+      },
+      {
+        "id": 34860,
+        "text": "a lot of men have a problem with a woman who doesn't need him. they'd rather her be desperately dependent so he feels accomplished.  ",
+        "emotion": "Fear",
+        "confidence": 0.2
+      },
+      {
+        "id": 35005,
+        "text": " @user i'm what i choose to become â¤  #anxiety   #gad #phobia #panic #agoraphobia #ptsd #ocd #bdd hâ¦",
+        "emotion": "Fear",
+        "confidence": 0.2
+      },
+      {
+        "id": 35663,
+        "text": "dreading the sound of my alarm in the morning  ",
+        "emotion": "Fear",
+        "confidence": 0.2
+      },
+      {
+        "id": 36723,
+        "text": "excited to go see rocky horror show at the end of june with @user   #nervous",
+        "emotion": "Fear",
+        "confidence": 0.2
+      }
+    ],
+    "Neutral": [
+      {
+        "id": 31965,
+        "text": "safe ways to heal your #acne!!    #altwaystoheal #healthy   #healing!! ",
+        "emotion": "Neutral",
+        "confidence": 0.3
+      },
+      {
+        "id": 31968,
+        "text": "choose to be   :) #momtips ",
+        "emotion": "Neutral",
+        "confidence": 0.3
+      },
+      {
+        "id": 31973,
+        "text": "1000dayswasted - narcosis infinite ep.. make me aware.. grinding neuro bass #lifestyle   ",
+        "emotion": "Neutral",
+        "confidence": 0.3
+      },
+      {
+        "id": 31979,
+        "text": " @user got my @user limited edition rain or shine set today!!  ! @user @user @user @user ",
+        "emotion": "Neutral",
+        "confidence": 0.3
+      },
+      {
+        "id": 31981,
+        "text": "ð­ðð #girls   #sun #fave @ london, united kingdom ",
+        "emotion": "Neutral",
+        "confidence": 0.3
+      }
+    ],
+    "Disgusted": [
+      {
+        "id": 32059,
+        "text": "jackblair - na: #horny #hot #naughty #nasty   #slut #young #shy #wet #nude #xxx #sexy #porn #kinky #snapshot ",
+        "emotion": "Disgusted",
+        "confidence": 0.22
+      },
+      {
+        "id": 32539,
+        "text": "haileysporn - na: #sexy #shy #porn #horny #nasty #naughty #slut #hot #xxx #nude #wet #kinky #young   ",
+        "emotion": "Disgusted",
+        "confidence": 0.22
+      },
+      {
+        "id": 33088,
+        "text": "alanahlou - anal sex, cameltoe, close up, dancing, dildo, fing ...: #nasty   #kinky #xxx #young #naughty... ",
+        "emotion": "Disgusted",
+        "confidence": 0.22
+      },
+      {
+        "id": 33592,
+        "text": "nice1girl - na: #horny #slut #kinky #nude #hot #nasty #sexy #porn   #naughty #snapshot #xxx #young #wet #shy ",
+        "emotion": "Disgusted",
+        "confidence": 0.22
+      },
+      {
+        "id": 33654,
+        "text": "prettyboyxl - na: #slut #xxx #hot #kinky #horny #porn #sexy #shy #nasty #young #wet #naughty #snapshot #nude   ",
+        "emotion": "Disgusted",
+        "confidence": 0.22
+      }
+    ],
+    "Surprised": [
+      {
+        "id": 32821,
+        "text": "what the just saw that dean ambrose won the money in the bank ladder match and then cash it in wow just wow. #wwe #stunned   #shocked",
+        "emotion": "Surprised",
+        "confidence": 0.45
+      },
+      {
+        "id": 42204,
+        "text": " @user oh wow! i feel so #blessed! over 500 #followers at this moment. #thankyou all so much! ð #grateful   #amazed #delâ¦",
+        "emotion": "Surprised",
+        "confidence": 0.36
+      },
+      {
+        "id": 43918,
+        "text": "wow! in light of what has just happened in orlando can you believe the russians said this   #prayfororlando  ",
+        "emotion": "Surprised",
+        "confidence": 0.36
+      },
+      {
+        "id": 32146,
+        "text": "@user  looked right at the cameraman as she grabbed katie's arm &amp; said \"can i talk to you\"   wow, everything you do is for tv?  ",
+        "emotion": "Surprised",
+        "confidence": 0.27
+      },
+      {
+        "id": 32208,
+        "text": " @user i can't believe how much i used to care what people thought of me now i'm just like \"lol fuck u, fuck you and  wtf fuck youâ¦",
+        "emotion": "Surprised",
+        "confidence": 0.27
+      }
+    ]
+  }
+}
